@@ -9,8 +9,8 @@ Probably better way to do this, but for now this will do.
 """
 
 __author__ = 'Inigo Montoya (inigo.montoya@unicornrentals.click)'
-__vcs_id__ = '1eda30316a7764819ea084d3fef23e8c'
-__version__ = 'a447d81f433eb0fd3ea7866376fa4cc2'
+__vcs_id__ = 'b4aea3ca075eb298c7d0a432ccf3c58c'
+__version__ = 'f74337c07316d6ed3da6b304d8308be8'
 
 from flask import Flask, request
 from flask_restful import Resource, Api
